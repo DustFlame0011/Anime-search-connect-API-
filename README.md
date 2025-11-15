@@ -30,17 +30,17 @@ A simple and responsive anime search application built with HTML, CSS, and Vanil
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/anime-search-app.git
+```git clone https://github.com/your-username/anime-search-app.git```
 
 
 2. Navigate to the project folder:
 
-cd anime-search-app
+```cd anime-search-app```
 
 
 3. Open the index.html file in your browser:
 
-Right-click → Open with Browser
+```Right-click → Open with Browser```
 
 
 4. No additional setup is required.
